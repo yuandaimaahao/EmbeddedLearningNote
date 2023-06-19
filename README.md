@@ -1,2 +1,2 @@
 # EmbeddedLearningNote
-韦东山嵌入式教程学习笔记
+Android 开发的嵌入式教程学习笔记
